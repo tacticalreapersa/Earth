@@ -1,20 +1,7 @@
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Header-&-Footer
 header-footer:
   enabled: true
-  header:
-  - ''
-  - '&#0E4E01&l「&#115D01&lN&#136D01&lE&#167C01&lW&#188C01&lC&#1B9B01&lO&#1DAB00&lM&#20BA00&lA&#22CA00&lR&#25D900&lC&#27E900&lA&#2AF800&l」'
-  - ''
-  footer:
-  - ''
-  - '&8[&aSpawn: &7%server_online_spawn%&8] &8[&aEarth: &7%server_online_world%&8]
-    &8[&aResource: &7%server_online_resource%&8]'
-  - ''
-  - '&7&oEarth SMP is a Survival Multiplayer game'
-  - '&7&oin which players may explore an earth-like map.'
-  - '&7&oBy claiming, a player may secure their base or dwellings.'
-  - ''
-  - '&aplay.server.com'
+
   per-world:
     world1:
       header:
