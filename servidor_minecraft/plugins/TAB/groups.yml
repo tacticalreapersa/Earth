@@ -1,0 +1,66 @@
+owner:
+  tabprefix: "&fぁ &c"
+  tagprefix: "&fぁ &c"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+dev:
+  tabprefix: "&fぃ &c"
+  tagprefix: "&fぃ &c"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+admin:
+  tabprefix: "&fあ &c"
+  tagprefix: "&fあ &c"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+mod:
+  tabprefix: "&fぅ &9"
+  tagprefix: "&fぅ &9"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+helper:
+  tabprefix: "&fが &a"
+  tagprefix: "&fが &a"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+builder:
+  tabprefix: "&fえ &3"
+  tagprefix: "&fえ &3"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+youtube:
+  tabprefix: "&fげ &c"
+  tagprefix: "&fげ &c"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+emperor:
+  tabprefix: "&f形 &f"
+  tagprefix: "&f形 &f"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+servant:
+  tabprefix: "&f声 &f"
+  tagprefix: "&f声 &f"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+apprentice:
+  tabprefix: "&f上 &f"
+  tagprefix: "&f上 &f"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+farmer:
+  tabprefix: "&f聲 &f"
+  tagprefix: "&f聲 &f"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+citizen:
+  tabprefix: "&f字 &f"
+  tagprefix: "&f字 &f"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+default:
+  tabprefix: "&f挨 &f"
+  tagprefix: "&f挨 &f"
+  customtabname: "%essentials_nickname%"
+  customtagname: "%essentials_nickname%"
+  
