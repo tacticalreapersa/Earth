@@ -1,0 +1,10 @@
+# bStats collects some data for plugin authors like how many servers are using their plugins.
+# To honor their work, you should not disable it.
+# This has nearly no effect on the server performance!
+# Check out https://bStats.org/ to learn more :)
+
+enabled: true
+serverUuid: a3866b0e-8a24-44a1-a4b5-e097c26614ec
+logFailedRequests: false
+logSentData: false
+logResponseStatusText: false

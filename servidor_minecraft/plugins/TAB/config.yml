@@ -1,7 +1,19 @@
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Header-&-Footer
 header-footer:
   enabled: true
-
+  header:
+  - ''
+  - '       &8&m●                    ●&r  &#69FF35&lCOMARCA  &8&m●                    ●&r       '
+  - '&fBEST MC NETWORK'
+  - ''
+  footer:
+  - ''
+  - '&#69FF35➘ ᴅᴀᴛᴇ ➘&f'
+  - '%server_time_EEEE% %server_time_d% %server_time_MMMM%'
+  - '%localtime_timezone_Asia/Kolkata,hh:mm a% %server_time_yyyy%'
+  - ''
+  - '&8&m●                                                      ●&r'
+  - ''
   per-world:
     world1:
       header:
@@ -84,21 +96,20 @@ scoreboard:
   respect-other-plugins: true
   scoreboards:
     scoreboard1:
-      title: 必  &r
+      title: '&#0E4E01&l「&#115D01&lN&#136D01&lE&#167C01&lW&#188C01&lC&#1B9B01&lO&#1DAB00&lM&#20BA00&lA&#22CA00&lR&#25D900&lC&#27E900&lA&#2AF800&l」 &r
       lines:
       - ''
       - ''
       - '&2&lPersonal:'
-      - '&f西 &aName: &7%player_name%'
-      - '&f弟 &aRank: &f%vault_prefix%'
-      - '&f衣 &aMoney: &2$&a%vault_eco_balance_formatted%'
+      - '&f &aName: &7%player_name%'
+      - '&f &aRank: &f%vault_prefix%'
+      - '&f &aMoney: &2$&a%vault_eco_balance_formatted%'
       - ''
       - '&2&lOthers:'
-      - '&f付 &aRemaining Claims: &7%griefprevention_remainingclaims%'
-      - '&f艾 &aPlaytime: &7%playtime_time%'
-      - '&f耻 &aCoords: &fX: &7%player_x% &fZ: &7%player_z%'
+      - '&f &aRemaining Claims: &7%griefprevention_remainingclaims%'
+      - '&f &aPlaytime: &7%playtime_time%'
+      - '&f &aCoords: &fX: &7%player_x% &fZ: &7%player_z%'
       - ''
-      - '&aearth.premadesetups.com'
 placeholders:
   date-format: dd.MM.yyyy
   time-format: '[HH:mm:ss / h:mm a]'
